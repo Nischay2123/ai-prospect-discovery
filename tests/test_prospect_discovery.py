@@ -740,3 +740,15 @@ def test_business_queries_also_search_linkedin_company_pages():
     business = FOOTBALL_DC.model_copy(update={"target_type": "business"})
     assert LinkedIn(search=None).build_query(business).startswith("(site:linkedin.com/company OR site:linkedin.com/in)")
     assert LinkedIn(search=None).build_query(FOOTBALL_DC).startswith("site:linkedin.com/in ")
+
+
+def test_db_path_is_always_writable_on_vercel(monkeypatch):
+    import tempfile
+
+    from app.config import db_path
+
+    monkeypatch.setenv("VERCEL", "1")
+    monkeypatch.setenv("DB_PATH", "data/prospects.db")  # copied from a local .env
+    assert db_path().startswith(tempfile.gettempdir())
+    monkeypatch.delenv("VERCEL")
+    assert db_path() == "data/prospects.db"

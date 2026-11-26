@@ -58,9 +58,15 @@ class Settings:
     llm_keys: dict[str, str] = field(default_factory=dict)  # names of configured provider keys (values not kept)
 
 
-def default_db_path() -> str:
-    """Serverless (Vercel) has a read-only filesystem except the temp dir; the DB there lives per instance."""
-    return os.path.join(tempfile.gettempdir(), "prospects.db") if env("VERCEL") else "data/prospects.db"
+def db_path() -> str:
+    """Serverless (Vercel) has a read-only filesystem except the temp dir, so there the DB always goes to /tmp
+    (per instance), even if a DB_PATH copied from a local .env points somewhere else."""
+    configured = env("DB_PATH")
+    if env("VERCEL"):
+        tmp = tempfile.gettempdir()
+        return configured if configured and os.path.abspath(configured).startswith(tmp) else \
+            os.path.join(tmp, "prospects.db")
+    return configured or "data/prospects.db"
 
 
 def load_settings() -> Settings:
@@ -80,7 +86,7 @@ def load_settings() -> Settings:
         platform_timeout=env_float("PLATFORM_TIMEOUT_SECONDS", 12.0) or 12.0,
         client_rate_limit_per_minute=env_float("CLIENT_RATE_LIMIT_PER_MINUTE", 10.0),
         api_key=env("API_KEY"),
-        db_path=env("DB_PATH", default_db_path()),
+        db_path=db_path(),
         retention_days=env_float("RETENTION_DAYS", 7.0),
         llm_keys={k: "set" for k in LLM_KEY_NAMES if env(k)},
     )
