@@ -1,0 +1,99 @@
+{
+  "success": true,
+  "query": "Restaurant owners in Dubai UAE",
+  "total_prospects": 4,
+  "prospects": [
+    {
+      "name": "Rags To Riches Restaurant",
+      "location": "Dubai, UAE",
+      "social_link": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/ragstorichesrestaurant"
+        },
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/ragstorichesrestaurant"
+        },
+        {
+          "platform": "Google",
+          "link": "https://ragstorichesrestaurant.com/contact"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:bookme@ragstorichesrestaurant.com"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+97145642007"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+971555199081"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Al Maeedah",
+      "location": "Dubai, UAE",
+      "social_link": [
+        {
+          "platform": "Google",
+          "link": "https://almaeedah.com/about"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:Almaeedahmanagement@gmail.com"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+971506942198"
+        },
+        {
+          "platform": "WhatsApp",
+          "link": "https://wa.me/971506942198"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "8Flavors Restaurant & Cafe",
+      "location": "Dubai",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@8flavorsrestaurantcafeduba251"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:sales@8flavorsresto.com"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+97143966271"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Foodwala Restaurant DTC Dubai",
+      "location": "Dubai UAE",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@foodwalarestaurantdtcdubai"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+97142525315"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+971544826353"
+        }
+      ],
+      "match": "confirmed"
+    }
+  ]
+}

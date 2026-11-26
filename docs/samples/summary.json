@@ -1,0 +1,57 @@
+[
+  {
+    "n": 1,
+    "query": "Football lovers in Washington DC in USA",
+    "file": "1-football-lovers-in-washington-dc-in-usa.json",
+    "seconds": 14.7,
+    "prospects": 11,
+    "confirmed": 6,
+    "multi_profile": 0,
+    "contacts": 1,
+    "with_location": 6
+  },
+  {
+    "n": 2,
+    "query": "Digital marketing agency owners in New York USA",
+    "file": "2-digital-marketing-agency-owners-in-new-york-usa.json",
+    "seconds": 9.4,
+    "prospects": 29,
+    "confirmed": 23,
+    "multi_profile": 5,
+    "contacts": 5,
+    "with_location": 23
+  },
+  {
+    "n": 3,
+    "query": "Startup founders in London UK",
+    "file": "3-startup-founders-in-london-uk.json",
+    "seconds": 19.4,
+    "prospects": 4,
+    "confirmed": 2,
+    "multi_profile": 0,
+    "contacts": 0,
+    "with_location": 2
+  },
+  {
+    "n": 4,
+    "query": "Cricket lovers in Ahmedabad India",
+    "file": "4-cricket-lovers-in-ahmedabad-india.json",
+    "seconds": 13.2,
+    "prospects": 1,
+    "confirmed": 1,
+    "multi_profile": 0,
+    "contacts": 0,
+    "with_location": 1
+  },
+  {
+    "n": 5,
+    "query": "Restaurant owners in Dubai UAE",
+    "file": "5-restaurant-owners-in-dubai-uae.json",
+    "seconds": 15.9,
+    "prospects": 4,
+    "confirmed": 4,
+    "multi_profile": 1,
+    "contacts": 10,
+    "with_location": 4
+  }
+]

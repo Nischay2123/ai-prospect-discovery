@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "query": "Cricket lovers in Ahmedabad India",
+  "total_prospects": 1,
+  "prospects": [
+    {
+      "name": "Ashish Jha",
+      "location": "Ahmedabad, Gujarat, India",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/ashish-jha-858999125"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/ashish-jha-858999125",
+          "source_url": "https://in.linkedin.com/in/ashish-jha-858999125",
+          "text": "Operations at Gujarat Cricket Association"
+        }
+      ]
+    }
+  ],
+  "intent": {
+    "interest": "Cricket",
+    "audience": "Cricket lovers",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India"
+    },
+    "target_type": "individual",
+    "keywords": [
+      "cricket",
+      "ipl",
+      "bcci"
+    ],
+    "search_queries": {
+      "google": "cricket fan Ahmedabad India",
+      "linkedin": "cricket Ahmedabad",
+      "x": "cricket fan Ahmedabad",
+      "youtube": "cricket Ahmedabad",
+      "instagram": "cricket fan Ahmedabad",
+      "facebook": "cricket fan Ahmedabad",
+      "threads": "cricket fan Ahmedabad"
+    },
+    "is_valid": true,
+    "reason": null
+  },
+  "platforms": [
+    {
+      "platform": "Google",
+      "method": "search_api",
+      "status": "ok",
+      "found": 16,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "LinkedIn",
+      "method": "search_api",
+      "status": "ok",
+      "found": 3,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "X",
+      "method": "search_api",
+      "status": "ok",
+      "found": 5,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Instagram",
+      "method": "search_api",
+      "status": "ok",
+      "found": 6,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Facebook",
+      "method": "search_api",
+      "status": "ok",
+      "found": 6,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Threads",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "YouTube",
+      "method": "official_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "youtube_data_api",
+      "error_type": null,
+      "error": null
+    }
+  ]
+}

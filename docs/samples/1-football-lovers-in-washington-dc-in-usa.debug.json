@@ -1,0 +1,318 @@
+{
+  "success": true,
+  "query": "Football lovers in Washington DC in USA",
+  "total_prospects": 11,
+  "prospects": [
+    {
+      "name": "Briana Miller",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/briana-millerbu"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/briana-millerbu",
+          "source_url": "https://www.linkedin.com/in/briana-millerbu",
+          "text": "Washington Commanders Football Team"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Levy",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/daniel-levy-"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/daniel-levy-",
+          "source_url": "https://www.linkedin.com/in/daniel-levy-",
+          "text": "Youth Football"
+        }
+      ]
+    },
+    {
+      "name": "Gimale Essacu",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/gessacu"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/gessacu",
+          "source_url": "https://www.linkedin.com/in/gessacu",
+          "text": "DC Soccer Club / Football"
+        }
+      ]
+    },
+    {
+      "name": "Julius C. Johnson",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/juliusjohnson632"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/juliusjohnson632",
+          "source_url": "https://www.linkedin.com/in/juliusjohnson632",
+          "text": "Washington Commanders"
+        }
+      ]
+    },
+    {
+      "name": "Matt Hayes",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/matthayes25"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/matthayes25",
+          "source_url": "https://www.linkedin.com/in/matthayes25",
+          "text": "Washington Commanders"
+        }
+      ]
+    },
+    {
+      "name": "Mike Spurgeon",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/mike-spurgeon-64975337"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/mike-spurgeon-64975337",
+          "source_url": "https://www.linkedin.com/in/mike-spurgeon-64975337",
+          "text": "Football"
+        }
+      ]
+    },
+    {
+      "name": "TravelFutbolFan",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@travelfutbolfan"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:travelfutbolfan@gmail.com"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@travelfutbolfan",
+          "source_url": "https://www.youtube.com/@travelfutbolfan",
+          "text": "fútbol"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:travelfutbolfan@gmail.com",
+          "source_url": "https://www.youtube.com/@travelfutbolfan",
+          "text": "travelfutbolfan@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Chris C2 Palmer",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/thechrispalmer_"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/thechrispalmer_",
+          "source_url": "https://x.com/TheChrisPalmer_",
+          "text": "Football"
+        }
+      ]
+    },
+    {
+      "name": "Jon Radke",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/jonradke"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/jonradke",
+          "source_url": "https://www.linkedin.com/in/jonradke",
+          "text": "National Football League"
+        }
+      ]
+    },
+    {
+      "name": "Jordan Stuart",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/nextmovejordan"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/nextmovejordan",
+          "source_url": "https://www.linkedin.com/in/nextmovejordan",
+          "text": "Football"
+        }
+      ]
+    },
+    {
+      "name": "Tip of the Spear DC Football Sports Podcast",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tipofthespeardcfootballpodcast"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tipofthespeardcfootballpodcast",
+          "source_url": "https://www.youtube.com/@tipofthespeardcfootballpodcast",
+          "text": "Washington football fans"
+        }
+      ]
+    }
+  ],
+  "intent": {
+    "interest": "Football",
+    "audience": "Football lovers",
+    "location": {
+      "city": "Washington DC",
+      "state": "District of Columbia",
+      "country": "USA"
+    },
+    "target_type": "individual",
+    "keywords": [
+      "american football",
+      "nfl",
+      "football",
+      "commanders"
+    ],
+    "search_queries": {
+      "google": "\"football fan\" Washington DC NFL",
+      "linkedin": "football Washington DC",
+      "x": "Washington Commanders fan Washington DC",
+      "youtube": "football Washington DC",
+      "instagram": "Washington Commanders fan Washington DC",
+      "facebook": "football fan Washington DC",
+      "threads": "football Washington DC"
+    },
+    "is_valid": true,
+    "reason": null
+  },
+  "platforms": [
+    {
+      "platform": "Google",
+      "method": "search_api",
+      "status": "ok",
+      "found": 19,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "LinkedIn",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "X",
+      "method": "search_api",
+      "status": "ok",
+      "found": 18,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Instagram",
+      "method": "search_api",
+      "status": "ok",
+      "found": 13,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Facebook",
+      "method": "search_api",
+      "status": "ok",
+      "found": 15,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Threads",
+      "method": "search_api",
+      "status": "ok",
+      "found": 11,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "YouTube",
+      "method": "official_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "youtube_data_api",
+      "error_type": null,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "Startup founders in London UK",
+  "total_prospects": 4,
+  "prospects": [
+    {
+      "name": "Kerry Jones",
+      "location": "London",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/kerryjj"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Tano",
+      "location": "London",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tano-ai"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "BensDevJourney",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@bensdevjourney"
+        }
+      ],
+      "match": "partial"
+    },
+    {
+      "name": "Oscar Lindhardt",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@oscar_lindhardt"
+        }
+      ],
+      "match": "partial"
+    }
+  ]
+}

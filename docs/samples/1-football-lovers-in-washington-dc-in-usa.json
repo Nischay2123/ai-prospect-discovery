@@ -1,0 +1,132 @@
+{
+  "success": true,
+  "query": "Football lovers in Washington DC in USA",
+  "total_prospects": 11,
+  "prospects": [
+    {
+      "name": "Briana Miller",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/briana-millerbu"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Daniel Levy",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/daniel-levy-"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Gimale Essacu",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/gessacu"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Julius C. Johnson",
+      "location": "District of Columbia",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/juliusjohnson632"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Matt Hayes",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/matthayes25"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "Mike Spurgeon",
+      "location": "Washington DC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/mike-spurgeon-64975337"
+        }
+      ],
+      "match": "confirmed"
+    },
+    {
+      "name": "TravelFutbolFan",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@travelfutbolfan"
+        },
+        {
+          "platform": "Email",
+          "link": "mailto:travelfutbolfan@gmail.com"
+        }
+      ],
+      "match": "partial"
+    },
+    {
+      "name": "Chris C2 Palmer",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/thechrispalmer_"
+        }
+      ],
+      "match": "partial"
+    },
+    {
+      "name": "Jon Radke",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/jonradke"
+        }
+      ],
+      "match": "partial"
+    },
+    {
+      "name": "Jordan Stuart",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/in/nextmovejordan"
+        }
+      ],
+      "match": "partial"
+    },
+    {
+      "name": "Tip of the Spear DC Football Sports Podcast",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tipofthespeardcfootballpodcast"
+        }
+      ],
+      "match": "partial"
+    }
+  ]
+}

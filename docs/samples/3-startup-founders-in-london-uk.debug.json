@@ -1,0 +1,175 @@
+{
+  "success": true,
+  "query": "Startup founders in London UK",
+  "total_prospects": 4,
+  "prospects": [
+    {
+      "name": "Kerry Jones",
+      "location": "London",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/kerryjj"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/kerryjj",
+          "source_url": "https://x.com/kerryjj",
+          "text": "I build startups"
+        }
+      ]
+    },
+    {
+      "name": "Tano",
+      "location": "London",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tano-ai"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@tano-ai",
+          "source_url": "https://www.youtube.com/@tano-ai",
+          "text": "Building an AI Company"
+        }
+      ]
+    },
+    {
+      "name": "BensDevJourney",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@bensdevjourney"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@bensdevjourney",
+          "source_url": "https://www.youtube.com/@bensdevjourney",
+          "text": "creating my software startup"
+        }
+      ]
+    },
+    {
+      "name": "Oscar Lindhardt",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@oscar_lindhardt"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@oscar_lindhardt",
+          "source_url": "https://www.youtube.com/@oscar_lindhardt",
+          "text": "I started my first business at 18"
+        }
+      ]
+    }
+  ],
+  "intent": {
+    "interest": "Startups",
+    "audience": "Startup founders",
+    "location": {
+      "city": "London",
+      "state": "England",
+      "country": "UK"
+    },
+    "target_type": "individual",
+    "keywords": [
+      "startup",
+      "founder",
+      "entrepreneur",
+      "tech startup"
+    ],
+    "search_queries": {
+      "google": "startup founder London UK",
+      "linkedin": "startup founder OR co-founder London",
+      "x": "startup founder London",
+      "youtube": "startup founder London",
+      "instagram": "startup founder London",
+      "facebook": "startup founder London",
+      "threads": "startup founder London"
+    },
+    "is_valid": true,
+    "reason": null
+  },
+  "platforms": [
+    {
+      "platform": "Google",
+      "method": "search_api",
+      "status": "ok",
+      "found": 16,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "LinkedIn",
+      "method": "search_api",
+      "status": "ok",
+      "found": 2,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "X",
+      "method": "search_api",
+      "status": "ok",
+      "found": 2,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Instagram",
+      "method": "search_api",
+      "status": "ok",
+      "found": 7,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Facebook",
+      "method": "search_api",
+      "status": "ok",
+      "found": 2,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Threads",
+      "method": "search_api",
+      "status": "ok",
+      "found": 7,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "YouTube",
+      "method": "official_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "youtube_data_api",
+      "error_type": null,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "success": true,
+  "query": "Digital marketing agency owners in New York USA",
+  "total_prospects": 29,
+  "prospects": [
+    {
+      "name": "HUNTER Digital Marketing Agency",
+      "location": "New York, NY 10001",
+      "social_link": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/hunterdigital"
+        },
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/hunterdigitalnyc"
+        },
+        {
+          "platform": "X",
+          "link": "https://x.com/hunterdigitalm2"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12122021431"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/hunterdigital",
+          "source_url": "https://www.facebook.com/hunterdigital/",
+          "text": "Digital Marketing"
+        },
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/hunterdigitalnyc",
+          "source_url": "https://www.instagram.com/hunterdigitalnyc/",
+          "text": "Digital Marketing Agency"
+        },
+        {
+          "platform": "X",
+          "link": "https://x.com/hunterdigitalm2",
+          "source_url": "https://x.com/hunterdigitalm2",
+          "text": "digital marketing agency"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12122021431",
+          "source_url": "https://x.com/hunterdigitalm2",
+          "text": "+12122021431"
+        }
+      ]
+    },
+    {
+      "name": "Direct Agents",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@directagents"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129256558"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12124194682"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@directagents",
+          "source_url": "https://www.youtube.com/@directagents",
+          "text": "digital marketing agency"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129256558",
+          "source_url": "https://www.youtube.com/@directagents",
+          "text": "+12129256558"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12124194682",
+          "source_url": "https://www.youtube.com/@directagents",
+          "text": "+12124194682"
+        }
+      ]
+    },
+    {
+      "name": "Branding New York City",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/brandingnycity"
+        },
+        {
+          "platform": "X",
+          "link": "https://x.com/brandingnycity"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/brandingnycity",
+          "source_url": "https://www.facebook.com/brandingnycity/",
+          "text": "strategic branding agency"
+        },
+        {
+          "platform": "X",
+          "link": "https://x.com/brandingnycity",
+          "source_url": "https://x.com/BrandingNYCity",
+          "text": "Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "copifycom",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/copifycom"
+        },
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@copifycom"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/copifycom",
+          "source_url": "https://x.com/copifycom",
+          "text": "Digital Marketing Agency"
+        },
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@copifycom",
+          "source_url": "https://www.youtube.com/@copifycom",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "iPullRank Digital Marketing Agency",
+      "location": "New York, NY",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/ipullrank"
+        },
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@ipullrankseo"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/ipullrank",
+          "source_url": "https://x.com/iPullRank",
+          "text": "Digital Marketing Agency"
+        },
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@ipullrankseo",
+          "source_url": "https://www.youtube.com/@ipullrankseo",
+          "text": "digital marketing agency"
+        }
+      ]
+    },
+    {
+      "name": "Romi Digital",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/romidigitalco"
+        },
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@romidigital.co"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/romidigitalco",
+          "source_url": "https://www.linkedin.com/company/romidigitalco",
+          "text": "digital marketing agency"
+        },
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@romidigital.co",
+          "source_url": "https://www.threads.com/@romidigital.co",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Star Tech SEO",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/startechseo"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129705854"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/startechseo",
+          "source_url": "https://x.com/startechseo",
+          "text": "Digital Marketing Agency"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129705854",
+          "source_url": "https://x.com/startechseo",
+          "text": "+12129705854"
+        }
+      ]
+    },
+    {
+      "name": "Acronym",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/acronym_media"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/acronym_media",
+          "source_url": "https://x.com/Acronym_Media",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "CgColors",
+      "location": "New York, USA",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@cgcolors"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@cgcolors",
+          "source_url": "https://www.youtube.com/@cgcolors",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Crafted",
+      "location": "New York, NY",
+      "social_link": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/craftedny"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/craftedny",
+          "source_url": "https://www.instagram.com/craftedny/",
+          "text": "creative agency"
+        }
+      ]
+    },
+    {
+      "name": "Digital Drew® SEM",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/digitaldrew"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/digitaldrew",
+          "source_url": "https://www.linkedin.com/company/digitaldrew",
+          "text": "SEM agency"
+        }
+      ]
+    },
+    {
+      "name": "Digital Marketing Agency LLC",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/digital-marketing-agency-llc"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/digital-marketing-agency-llc",
+          "source_url": "https://www.linkedin.com/company/digital-marketing-agency-llc",
+          "text": "digital marketing agency"
+        }
+      ]
+    },
+    {
+      "name": "Ebrandz",
+      "location": "New York NY",
+      "social_link": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/ebrandzinc"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Facebook",
+          "link": "https://facebook.com/ebrandzinc",
+          "source_url": "https://www.facebook.com/eBrandzInc/",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Hudson Creative",
+      "location": "New York, NY",
+      "social_link": [
+        {
+          "platform": "Google",
+          "link": "https://hudsoncreative.com"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Google",
+          "link": "https://hudsoncreative.com",
+          "source_url": "https://hudsoncreative.com/",
+          "text": "digital marketing agency"
+        }
+      ]
+    },
+    {
+      "name": "Marketing House NYC",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/marketinghousenyc"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/marketinghousenyc",
+          "source_url": "https://www.linkedin.com/company/marketinghousenyc",
+          "text": "digital marketing"
+        }
+      ]
+    },
+    {
+      "name": "Moonlit NY",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@moonlitny3539"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@moonlitny3539",
+          "source_url": "https://www.youtube.com/@moonlitny3539",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Nicole Falcone",
+      "location": "New York City",
+      "social_link": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/syncdigitalmarketing"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/syncdigitalmarketing",
+          "source_url": "https://www.instagram.com/syncdigitalmarketing/",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "PS Digital Marketing",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/ps-digital-marketing"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/ps-digital-marketing",
+          "source_url": "https://www.linkedin.com/company/ps-digital-marketing",
+          "text": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "name": "Socialfix Media",
+      "location": "NYC",
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@socialfix"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@socialfix",
+          "source_url": "https://www.youtube.com/@socialfix",
+          "text": "digital marketing agency"
+        }
+      ]
+    },
+    {
+      "name": "Sun & Sol Co",
+      "location": "New York, New York",
+      "social_link": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@sunandsolco_"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@sunandsolco_",
+          "source_url": "https://www.threads.com/@sunandsolco_",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "The Charles Group",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "Google",
+          "link": "https://thecharlesgrp.com"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Google",
+          "link": "https://thecharlesgrp.com",
+          "source_url": "https://www.thecharlesgrp.com/",
+          "text": "digital performance marketing agency"
+        }
+      ]
+    },
+    {
+      "name": "THE SETTERS AGENCY",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/thesetters.agency"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Instagram",
+          "link": "https://instagram.com/thesetters.agency",
+          "source_url": "https://www.instagram.com/thesetters.agency/",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "XaraSkies",
+      "location": "New York",
+      "social_link": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@xaraskies"
+        }
+      ],
+      "match": "confirmed",
+      "evidence": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@xaraskies",
+          "source_url": "https://www.threads.com/@xaraskies",
+          "text": "Digital Agency"
+        }
+      ]
+    },
+    {
+      "name": "17 Agency",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/17-agency"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129139596"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/17-agency",
+          "source_url": "https://www.linkedin.com/company/17-agency",
+          "text": "Internet marketing"
+        },
+        {
+          "platform": "Phone",
+          "link": "tel:+12129139596",
+          "source_url": "https://www.linkedin.com/company/17-agency",
+          "text": "+12129139596"
+        }
+      ]
+    },
+    {
+      "name": "Power Digital Marketing",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/powerdigitalmarketing"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/company/powerdigitalmarketing",
+          "source_url": "https://www.linkedin.com/company/powerdigitalmarketing",
+          "text": "growth marketing firm"
+        }
+      ]
+    },
+    {
+      "name": "Purple Cow",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/purplecowecom"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/purplecowecom",
+          "source_url": "https://x.com/purplecowecom",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Roots Marketing Agency",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@rootsmarketing"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "YouTube",
+          "link": "https://youtube.com/@rootsmarketing",
+          "source_url": "https://www.youtube.com/@rootsmarketing",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "ShiruDigi",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@shirudigi"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "Threads",
+          "link": "https://threads.net/@shirudigi",
+          "source_url": "https://www.threads.com/@shirudigi",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    },
+    {
+      "name": "Skyrush Marketing",
+      "location": null,
+      "social_link": [
+        {
+          "platform": "X",
+          "link": "https://x.com/skyrushmktg"
+        }
+      ],
+      "match": "partial",
+      "evidence": [
+        {
+          "platform": "X",
+          "link": "https://x.com/skyrushmktg",
+          "source_url": "https://x.com/SkyrushMktg",
+          "text": "Digital Marketing Agency"
+        }
+      ]
+    }
+  ],
+  "intent": {
+    "interest": "Digital Marketing",
+    "audience": "Digital marketing agency owners",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "USA"
+    },
+    "target_type": "business",
+    "keywords": [
+      "digital marketing",
+      "marketing agency",
+      "seo agency",
+      "social media agency"
+    ],
+    "search_queries": {
+      "google": "digital marketing agency New York USA",
+      "linkedin": "digital marketing agency owner New York",
+      "x": "digital marketing agency New York",
+      "youtube": "digital marketing agency New York",
+      "instagram": "digital marketing agency New York",
+      "facebook": "digital marketing agency New York",
+      "threads": "digital marketing agency New York"
+    },
+    "is_valid": true,
+    "reason": null
+  },
+  "platforms": [
+    {
+      "platform": "Google",
+      "method": "search_api",
+      "status": "ok",
+      "found": 9,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "LinkedIn",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "X",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Instagram",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Facebook",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "Threads",
+      "method": "search_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "serper",
+      "error_type": null,
+      "error": null
+    },
+    {
+      "platform": "YouTube",
+      "method": "official_api",
+      "status": "ok",
+      "found": 10,
+      "provider": "youtube_data_api",
+      "error_type": null,
+      "error": null
+    }
+  ]
+}
