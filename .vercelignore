@@ -1,0 +1,14 @@
+# Never upload secrets or local data; keep the function bundle small.
+.env
+.env.*
+!.env.example
+.venv/
+data/
+private/
+tests/
+evals/
+docs/
+.pytest_cache/
+.ruff_cache/
+**/__pycache__/
+.claude/
