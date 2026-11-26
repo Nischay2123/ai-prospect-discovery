@@ -1,0 +1,40 @@
+[project]
+name = "ai-prospect-discovery"
+version = "1.0.0"
+description = "FastAPI service that finds real public prospects across platforms from a natural-language query."
+requires-python = ">=3.12"
+# Same pins as requirements.txt (Vercel and pip may read either; a test keeps them in sync).
+dependencies = [
+    "fastapi==0.163.1",
+    "uvicorn==0.54.0",
+    "httpx==0.28.1",
+    "pydantic==2.14.3",
+    "python-dotenv==1.2.4",
+    "logfire[fastapi,httpx]==5.6.0",
+    "litellm==1.106.1",
+    "beautifulsoup4==4.15.0",
+    "phonenumbers==9.0.44",
+    "email-validator==2.4.0",
+]
+
+[tool.vercel]
+entrypoint = "app.main:app"
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "ASYNC", "S"]
+ignore = [
+    "S101",  # assert is fine in tests
+    "S311",  # random is for retry jitter, not crypto
+    "UP046", # Generic[T] reads clearer than PEP 695 syntax for a 3.12 floor
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S105", "S106"]  # fake keys in tests
+
+[tool.pytest.ini_options]
+markers = ["live: calls the real APIs; run with RUN_LIVE_TESTS=1 and real keys in .env"]
+filterwarnings = ["ignore::DeprecationWarning"]

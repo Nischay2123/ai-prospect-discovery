@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local data / caches
+data/
+*.db
+.cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Vercel
+.vercel/
+
+# Private notes (interview prep)
+private/
+
+# Local tool config
+.claude/
